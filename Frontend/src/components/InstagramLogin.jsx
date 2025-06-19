@@ -37,7 +37,7 @@ const InstagramLogin = () => {
           <img
             src="/2227.png"
             alt="Instagram Logo"
-            className="w-full max-w-xs md:max-w-sm lg:max-w-md mx-auto"
+            className="w-40 sm:w-52 md:w-64 lg:w-80 xl:w-96 mx-auto"
           />
         </div>
 
