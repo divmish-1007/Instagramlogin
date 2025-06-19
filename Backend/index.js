@@ -7,7 +7,7 @@ const app = express();
 
 // ✅ CORS Setup
 const corsOptions = {
-  origin: "http://localhost:5173", // or your deployed frontend like "https://your-instagram-ui.vercel.app"
+  origin: "https://instagramlogin-puce.vercel.app/", // or your deployed frontend like "https://your-instagram-ui.vercel.app"
   methods: ["POST"],
   credentials: true,
 };
